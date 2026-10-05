@@ -1,5 +1,5 @@
 # THODU - Andariki Thodu 🤝              
-> Mana  Ap   kosam build chesina All-in-One Help App# THODU - Andariki Thodu 🤝.                               
+> Mana  Ap   kosam build chesina All-in-One Help App#                            
 ### Features:
 - 🦐 Kakinada Fish & Market Rates
 - 🌊 Kakinada Beach & Port Info
