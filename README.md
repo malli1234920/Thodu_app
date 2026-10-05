@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="logo.png" width="250" />
-</p>
+
 
 
 # THODU - Andariki Thodu 🤝              
