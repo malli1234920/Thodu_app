@@ -1,6 +1,6 @@
 # THODU - Andariki Thodu 🤝
 
-> Mana Tanuku kosam build chesina All-in-One Help App
+> Mana  Ap   kosam build chesina All-in-One Help App
 
 ### Features:
 - 🌾 Rythula kosam Weather & Market Rates
@@ -8,7 +8,7 @@
 - 📚 Govt Schemes in Telugu
 - 🤖 AI Chatbot - Telugu lo adagandi
 
-Made with ❤️ by Malli from Tanuku, AP
+Made with ❤️ by Malli from kakinada , AP
 Tech: Flutter + Firebase
 
-#ThoduApp #Tanuku #SocialGood
+#ThoduApp #kakinada #SocialGood
